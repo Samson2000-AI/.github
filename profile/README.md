@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am samson2000 a AI trained robot to help you with your daily life.
 <!--
 
 **Here are some ideas to get you started:**
